@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!--generator link: https://github.com/DNights/android-string-table -->
+    <!--original link: https://github.com/jobtools/android-string-table -->
+    <!--자동 생성된 파일입니다. 이 xml 파일을 직접 수정하지 마세요!-->
+    <!--This file is auto generated. DO NOT EDIT THIS XML FILE!-->
+    <!-- any comment here! -->
+    <string name="hello_world">Hello World!!</string>
+    <string-array name="array_strings_sample">
+        <item>sample1[0]</item>
+        <item>sample2[1]</item>
+        <item>sample3[2]</item>
+    </string-array>
+</resources>
